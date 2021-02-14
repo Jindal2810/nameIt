@@ -1,0 +1,35 @@
+"Name it App"
+
+Data will always flow from parent to child and vice versa(call back mechanism).
+
+Checking installment of node.js and npm(package manger comes with node ) in cmd.
+node --version
+npm --version
+
+To update npm use command
+npm install -g npm
+
+open cmd in projects folder and type
+npx create-react-app nameit
+
+To open Visual studio open cmd into project folder(nameit)
+and type 
+code .
+
+Install one more npm libraby for name -generator
+npm install --save-exact @rstacruz/startup-name-generator
+
+prettier-sort of helper which saves time in styling
+
+setting->format->tick on format on save
+
+npm start command
+
+theory-
+Class based component:implemented using class
+Functional component: implemented using function
+
+State-piece of data which saved for rendering in future or performing some actions in future.it is javascript object.
+
+props:piece of data used to communicate from parent to child.
+
